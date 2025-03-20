@@ -1,16 +1,14 @@
-<!-- Banner -->
-<p align="center">
-  <img src="[https://your-banner-url.com/banner.png](https://imgur.com/a/cNqpF06)" alt="Banner de GitHub" width="800px">
-</p>
-
 <h1 align="center">Hola, soy <span style="color:#2563EB">Affectus Jaureguizar</span> 👋</h1>
+
+<!-- Banner -->
+![Image](https://github.com/user-attachments/assets/294f448b-a3fe-4345-a9fd-05b9e02d75fb)
 
 ---
 
 ### 🚀 Sobre mí
 
 - 🧑‍💻 **Científico de Datos en formación** | Machine Learning, Python y Data Storytelling 
-- 📊 **Especializado en:** Análisis de datos, predicción y visualización  
+- 📊 **Especializado en:** Predicción, visualización y análisis de datos  
 - 🎯 **Objetivo:** Convertir datos en decisiones estratégicas  
 - 💡 Siempre aprendiendo algo nuevo en el mundo de **IA y Data Science**  
 - 💬 ¿Hablamos? [LinkedIn](https://www.linkedin.com/in/affectusjaureguizar)  
