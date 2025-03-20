@@ -10,7 +10,9 @@
 - 🧑‍💻 **Científico de Datos en formación** | Machine Learning, Python y Data Storytelling 
 - 📊 **Especializado en:** Predicción, visualización y análisis de datos  
 - 🎯 **Objetivo:** Convertir datos en decisiones estratégicas  
-- 💡 Siempre aprendiendo algo nuevo en el mundo de **IA y Data Science**  
+- 💡 Siempre aprendiendo algo nuevo en el mundo de **IA y Data Science**
+- 🤝 **Abierto a nuevas oportunidades:** Disponible para **colaboraciones, trabajo freelance, part-time o full-time** 🚀  
+- 🌎 **Perfil en español, pero con fluidez en inglés:** Puedo trabajar y comunicarme sin problema en entornos internacionales  
 - 💬 ¿Hablamos? [LinkedIn](https://www.linkedin.com/in/affectusjaureguizar)  
 
 ---
